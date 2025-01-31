@@ -6,15 +6,11 @@ I am **Aaron**, a **Year 2 student** currently pursuing a **Diploma in Informati
 
 I have a strong passion for **software development**, **AI**, and **web development**, and I’m always eager to explore new technologies and expand my skills.  
 
-🔹 **Learning and growing** in the field of software engineering  
-🔹 Passionate about building **innovative solutions**  
-🔹 Open to collaborations, projects, and learning opportunities  
-
 🚀 **Let’s connect and build something awesome together!**
 
 ## 🌟 Interests
 
-- 🎮 Gaming (League of Legends)
+- 🎮 Gaming (League of Legends; Peak Rank: Silver 1)
 - 🎥 Movies and TV Shows (Anime, K-Drama)
 - 🎶 Music (Listening to various genres, Classics/EDM/Kpop)
 - 🌍 Traveling (Exploring new places and cultures)
