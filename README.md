@@ -1,8 +1,5 @@
 ## Aaron Lua - @Aaronlsk
 
-## Aaron Lua 👋  
-![Hello Animation](https://assets8.lottiefiles.com/packages/lf20_gpkcch3r.json)
-
 ### Year 2 IT Student | Software Engineering Enthusiast | Passionate Developer  
 
 I am **Aaron**, a **Year 2 student** currently pursuing a **Diploma in Information Technology**, specializing in **Software Engineering** at **Ngee Ann Polytechnic**.  
@@ -15,6 +12,14 @@ I have a strong passion for **software development**, **AI**, and **web developm
 
 🚀 **Let’s connect and build something awesome together!**
 
+## 🌟 Interests
+
+- 🎮 Gaming (League of Legends)
+- 🎥 Movies and TV Shows (Anime, K-Drama)
+- 🎶 Music (Listening to various genres, Classics/EDM/Kpop)
+- 🌍 Traveling (Exploring new places and cultures)
+- 🧩 Problem-solving (Challenges like puzzles and brainteasers)
+
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-lua-855123273/)
 
@@ -25,6 +30,18 @@ I have a strong passion for **software development**, **AI**, and **web developm
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+## 💻 Front End Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## ⚙️ Back End Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 
 ## 🛠 Tools & Platforms
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
