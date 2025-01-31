@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/aaron-lua-855123273/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-lua-855123273/)
+
