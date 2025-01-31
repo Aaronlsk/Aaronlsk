@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaronlsk&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaronlsk&layout=compact&theme=radical)
+
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/aaron-lua-855123273/)  
