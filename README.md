@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 ## 🔗 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-lua-855123273/)
+
 
 
 
