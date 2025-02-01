@@ -6,7 +6,7 @@ I am **Aaron**, a **Year 2 student** currently pursuing a **Diploma in Informati
 
 I have a strong passion for **software development**, **AI**, and **web development**, and I’m always eager to explore new technologies and expand my skills.  
 
-🚀 **Let’s connect and build something awesome together!**
+🌀 *“When you stand at the crossroads and look back, you’ll realize that every step was necessary.”* – **Holo, Spice and Wolf**
 
 ## 🌟 Interests
 
@@ -14,7 +14,7 @@ I have a strong passion for **software development**, **AI**, and **web developm
 - 🎥 Movies and TV Shows (Anime, K-Drama)
 - 🎶 Music (Listening to various genres, Classics/EDM/Kpop)
 - 🌍 Traveling (Exploring new places and cultures)
-- 🧩 Problem-solving (Challenges like puzzles and brainteasers)
+- 🧩 Problem-solving (Challenges like puzzles)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-lua-855123273/)
