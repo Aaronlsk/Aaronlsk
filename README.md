@@ -10,7 +10,7 @@ I have a strong passion for **software development**, **AI**, and **web developm
 
 ## 🌟 Interests
 
-- 🎮 Gaming (League of Legends; Peak Rank: Silver 1)
+- 🎮 Gaming (League of Legends)
 - 🎥 Movies and TV Shows (Anime, K-Drama)
 - 🎶 Music (Listening to various genres, Classics/EDM/Kpop)
 - 🌍 Traveling (Exploring new places and cultures)
