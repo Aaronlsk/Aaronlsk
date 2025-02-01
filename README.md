@@ -1,6 +1,6 @@
 ## Aaron Lua - @Aaronlsk
 
-### Year 2 IT Student | Software Engineering Enthusiast | Passionate Developer  
+### 👋 Welcome | 欢迎 | 환영합니다
 
 I am **Aaron**, a **Year 2 student** currently pursuing a **Diploma in Information Technology**, specializing in **Software Engineering** at **Ngee Ann Polytechnic**.  
 
@@ -47,7 +47,7 @@ I have a strong passion for **software development**, **AI**, and **web developm
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 ## 📝 Project Management & Design
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
