@@ -6,7 +6,7 @@ I am **Aaron**, a **Year 2 student** currently pursuing a **Diploma in Informati
 
 I have a strong passion for **software development**, **AI**, and **web development**, and I’m always eager to explore new technologies and expand my skills.  
 
-🌀 *“When you stand at the crossroads and look back, you’ll realize that every step was necessary.”* – **Holo, Spice and Wolf**
+🌀 *“When you stand at the crossroads and look back, you’ll realize that every step was necessary.”*
 
 ## 🌟 Interests
 
