@@ -15,7 +15,7 @@ I am **Aaron**, a **Year 2 student** currently pursuing a **Diploma in Informati
 - 🧩 Problem-solving (Challenges like puzzles)
 
 ## 🔗 Connect with Me
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/)
+[![Website](https://img.shields.io/badge/Website-Visit-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aaronlsk.github.io/Aaron_Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-lua-855123273/)
 
 ## 🚀 Tech Stack
